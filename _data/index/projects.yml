@@ -1,22 +1,69 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Mail & SMS Spam Detection
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  url: https://github.com/wprazuch/spam-detection
+  img: /static/assets/img/landing/spam_detection.jpg
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Face Mask Detection
+  i18n: jalpc
+  url: https://github.com/wprazuch/face-mask-detection
+  img: /static/assets/img/landing/face_mask_detection.jpg
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  
+- name: Automatic Stack Exchange Tagging
+  i18n: jalpc
+  url: https://github.com/wprazuch/stack-overflow-tags
+  img: /static/assets/img/landing/automatic_stack_exchange_tagging.png
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Netflix Movie Recommendation
+  i18n: jalpc
+  url: https://github.com/wprazuch/netflix-movie-recommendation
+  img: /static/assets/img/landing/netflix_movie_recommendation.jpeg
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+
+- name: Handwriting Recognition
+  i18n: jalpc
+  url: https://github.com/wprazuch/handwriting-recognition
+  img: /static/assets/img/landing/handwriting_recognition.jpg
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+
+
+- name: Face Recognition
+  i18n: jalpc
+  url: https://github.com/wprazuch/face-recognition
+  img: /static/assets/img/landing/face_recognition.jpg
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+
+- name: IMDb Movie Reviews
+  i18n: jalpc
+  url: https://github.com/wprazuch/imdb-movie-reviews
+  img: /static/assets/img/landing/imdb_movie_reviews.png
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+
+- name: Dog Breed Classification
+  i18n: jalpc
+  url: https://github.com/wprazuch/dog-expert
+  img: /static/assets/img/landing/dog_expert.jpg
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+
+- name: Deep Learning from Scratch
+  i18n: jalpc
+  url: https://github.com/wprazuch/deep-learning-from-scratch
+  img: /static/assets/img/landing/deep_learning_from_scratch.png
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+
+- name: RSNA Pneumonia Detection Challenge
+  i18n: jalpc
+  url: https://github.com/wprazuch/rsna-pneumonia
+  img: /static/assets/img/landing/rsna_pneumonia.jpeg
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+
+- name: Stock Price Prediction
+  i18n: jalpc
+  url: https://github.com/wprazuch/stock-price-prediction
+  img: /static/assets/img/landing/stock_price_prediction.jpg
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.

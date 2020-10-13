@@ -1,30 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Silesian University of Technology
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I am working at Silesian University of Technology on my PhD thesis, which is related to AI in Medicine.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: October. 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: PhD Candidate
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Diebold-Nixdorf
+    i18n: diebold-nixdorf
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at Diebold-Nixdorf for 3 years during my Bachelor and MSc studies. I was involved in developing solutions for retail, worked in large scale project, got familiar with major development tools and practices.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Oct. 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
