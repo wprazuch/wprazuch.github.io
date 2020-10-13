@@ -7,7 +7,7 @@
     detail: I am working at Silesian University of Technology on my PhD thesis, which is related to AI in Medicine.
     i18n: company_a_desc
   date:
-    detail: October. 2019
+    detail: October, 2019
     i18n: company_a_date
   job:
     detail: PhD Candidate
@@ -22,7 +22,7 @@
     detail: I worked at Diebold-Nixdorf for 3 years during my Bachelor and MSc studies. I was involved in developing solutions for retail, worked in large scale project, got familiar with major development tools and practices.
     i18n: company_b_desc
   date:
-    detail: Oct. 2016
+    detail: October, 2016
     i18n: company_b_date
   job:
     detail: Software Developer
