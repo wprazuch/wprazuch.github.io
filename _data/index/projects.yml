@@ -5,50 +5,50 @@
   i18n: jalpc
   url: https://github.com/wprazuch/spam-detection
   img: /static/assets/img/landing/spam_detection.jpg
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data. I have also created a simple endpoint in Flask to communicate with the model.
 
 - name: Face Mask Detection
   i18n: jalpc
   url: https://github.com/wprazuch/face-mask-detection
   img: /static/assets/img/landing/face_mask_detection.jpg
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: In this project, I created a face mask detection system that checks, whether a person wears a face mask or not. Again, you can communicate with the model using REST API written in Flask - an example client is shown in the repo.
   
 - name: Automatic Stack Exchange Tagging
   i18n: jalpc
   url: https://github.com/wprazuch/stack-overflow-tags
   img: /static/assets/img/landing/automatic_stack_exchange_tagging.png
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: The intention of the project was to create an automated way of tagging questions raised by users on Stack Exchange. Such system could be very helpful in management of lots of data generated every day on such websites.
 
 - name: Netflix Movie Recommendation
   i18n: jalpc
   url: https://github.com/wprazuch/netflix-movie-recommendation
   img: /static/assets/img/landing/netflix_movie_recommendation.jpeg
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: Using data provided by Netflix, the goal is to give recommendations of the movies for the user of specific track of movies and ratings.
 
 - name: Handwriting Recognition
   i18n: jalpc
   url: https://github.com/wprazuch/handwriting-recognition
   img: /static/assets/img/landing/handwriting_recognition.jpg
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: The goal was to automatically translate from written text to electronic text, based on CV techniques and Deep Learning.
 
 
 - name: Face Recognition
   i18n: jalpc
   url: https://github.com/wprazuch/face-recognition
   img: /static/assets/img/landing/face_recognition.jpg
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: The goal of the project was to recognize faces given in the photo. A pretrained face recognition model was used to generate embeddings for each face provided.
 
 - name: IMDb Movie Reviews
   i18n: jalpc
   url: https://github.com/wprazuch/imdb-movie-reviews
   img: /static/assets/img/landing/imdb_movie_reviews.png
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: This project showed how to build a model for a simple Sentiment Analysis task for IMDb Movie Reviews data.
 
 - name: Dog Breed Classification
   i18n: jalpc
   url: https://github.com/wprazuch/dog-expert
   img: /static/assets/img/landing/dog_expert.jpg
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: This project involved building a classification model that would enable to classify dogs in terms of breeds. Stanford dogs dataset was used in the project.
 
 - name: Deep Learning from Scratch
   i18n: jalpc
