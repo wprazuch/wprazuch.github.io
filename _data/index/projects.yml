@@ -17,7 +17,7 @@
   i18n: jalpc
   url: https://github.com/wprazuch/stack-overflow-tags
   img: /static/assets/img/landing/automatic_stack_exchange_tagging.png
-  desc: The intention of the project was to create an automated way of tagging questions raised by users on Stack Exchange. Such system could be very helpful in management of lots of data generated every day on such websites.
+  desc: The intention of the project was to create an automated way of tagging questions raised by users on Stack Exchange.
 
 - name: Netflix Movie Recommendation
   i18n: jalpc
@@ -30,7 +30,6 @@
   url: https://github.com/wprazuch/handwriting-recognition
   img: /static/assets/img/landing/handwriting_recognition.jpg
   desc: The goal was to automatically translate from written text to electronic text, based on CV techniques and Deep Learning.
-
 
 - name: Face Recognition
   i18n: jalpc
