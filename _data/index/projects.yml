@@ -54,16 +54,16 @@
   i18n: jalpc
   url: https://github.com/wprazuch/deep-learning-from-scratch
   img: /static/assets/img/landing/deep_learning_from_scratch.png
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: In this project, I started from scratch in coding some simple neural networks and applying backpropagation to train them.
 
 - name: RSNA Pneumonia Detection Challenge
   i18n: jalpc
   url: https://github.com/wprazuch/rsna-pneumonia
   img: /static/assets/img/landing/rsna_pneumonia.jpeg
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: The goal is to tell apart pneumonia (viral or bacterial) from healthy patients, based on Chest X-Rays from NIH database. I applied various methods and tools to select the best model for that job.
 
 - name: Stock Price Prediction
   i18n: jalpc
   url: https://github.com/wprazuch/stock-price-prediction
   img: /static/assets/img/landing/stock_price_prediction.jpg
-  desc: In this project I built a deep learning model to detect spam from sms and e-mail messages. Additionally, I provided some EDA for the data.
+  desc: In this case, I used common deep learning architectures to predict stock price from real-world data.
