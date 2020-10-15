@@ -40,6 +40,7 @@
   date:
     detail: March, 2017
     i18n: company_b_date
+  icon: fa-circle
 
 - name:
     detail: Diebold-Nixdorf
@@ -53,7 +54,7 @@
   job:
     detail: Software Developer
     i18n: company_b_job
-  
+  icon: fa-circle
 
 - name:
     detail: Silesian University of Technology
