@@ -72,3 +72,15 @@
   url: https://github.com/wprazuch/music-genre-classification
   img: /static/assets/img/landing/music-genre-classification.jpg
   desc: Predicting music genre using ML algorithms. Some EDA was provied as well.
+
+- name: Chatbot
+  i18n: jalpc
+  url: https://github.com/wprazuch/chatbot
+  img: /static/assets/img/landing/chatbot.png
+  desc: A simple chatbot based on Feed-forward network.
+
+- name: Twitter Sentiment Analysis
+  i18n: jalpc
+  url: https://github.com/wprazuch/twitter-posts-sentiments
+  img: /static/assets/img/landing/twitter.jpg
+  desc: Classification of Tweet sentiments together with EDA.
