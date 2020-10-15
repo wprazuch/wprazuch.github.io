@@ -13,8 +13,8 @@
   job:
     detail: Intern
     i18n: company_a_job
-  icon: fa-plus-square
-  present: true
+  icon: fa-circle
+  present: false
 
 - name:
     detail: Silesian University of Technology
@@ -28,7 +28,7 @@
   job:
     detail: PhD Candidate
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-circle
   present: true
 
 - name:
@@ -53,14 +53,15 @@
   job:
     detail: Software Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  
 
 - name:
     detail: Silesian University of Technology
     i18n: sut
   desc:
-    detail: I started my Bachelor studies on Silesian University of Technologies on interdiscplinary course, called Control, Electronic and Information Technology. The studies were held in English and during that time I developed many crucial skills that I use today.
+    detail: I started my Bachelor studies on Silesian University of Technologies on interdiscplinary course, called Control, Electronic and Information Technology. The studies were held in English and during that time I developed many crucial skills I use today.
     i18n: company_b_desc
   date:
     detail: October, 2013
     i18n: company_b_date
+  icon: fa-circle
