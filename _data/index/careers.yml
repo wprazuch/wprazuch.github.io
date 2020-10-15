@@ -1,5 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Medical University of Technology
+    i18n: company_a
+  desc:
+    detail: I took a 3-month internship in Medical University of Gdansk to gather data and develop a Deep Learning model for early lung tumour detection from low-dose Computed Tomography imaging.
+    i18n: company_a_desc
+  date:
+    detail: February, 2020
+    i18n: company_a_date
+  job:
+    detail: Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
 - name:
     detail: Silesian University of Technology
     i18n: company_a
@@ -16,6 +32,16 @@
   present: true
 
 - name:
+    detail: Silesian University of Technology
+    i18n: sut
+  desc:
+    detail: I started my Master studies on Silesian University of Technologies on the same course as on my Bahcelor studies. Since the beginning of the studies, I focused on studying Machine Learning.
+    i18n: company_b_desc
+  date:
+    detail: March, 2017
+    i18n: company_b_date
+
+- name:
     detail: Diebold-Nixdorf
     i18n: diebold-nixdorf
   desc:
@@ -28,3 +54,13 @@
     detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Silesian University of Technology
+    i18n: sut
+  desc:
+    detail: I started my Bachelor studies on Silesian University of Technologies on interdiscplinary course, called Control, Electronic and Information Technology. The studies were held in English and during that time I developed many crucial skills that I use today.
+    i18n: company_b_desc
+  date:
+    detail: October, 2013
+    i18n: company_b_date
