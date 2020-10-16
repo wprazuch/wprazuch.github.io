@@ -85,6 +85,12 @@
   img: /static/assets/img/landing/twitter.jpg
   desc: Classification of Tweet sentiments together with EDA.
 
+- name: Human Activity Recognition
+  i18n: jalpc
+  url: https://github.com/wprazuch/human-activity-recognition
+  img: /static/assets/img/landing/human_activity_recognition.jpg
+  desc: Detect activities from videos or images.
+
 - name: Image Caption Generator
   i18n: jalpc
   url: https://github.com/wprazuch/image-caption-generator
