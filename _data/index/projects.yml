@@ -65,7 +65,7 @@
   i18n: jalpc
   url: https://github.com/wprazuch/stock-price-prediction
   img: /static/assets/img/landing/stock_price_prediction.jpg
-  desc: In this case, I used common deep learning architectures to predict stock price from real-world data.
+  desc: Common deep learning architectures to predict stock price from real-world data.
 
 - name: Music Genre Classification
   i18n: jalpc
