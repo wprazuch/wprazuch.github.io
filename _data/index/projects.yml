@@ -84,3 +84,15 @@
   url: https://github.com/wprazuch/twitter-posts-sentiments
   img: /static/assets/img/landing/twitter.jpg
   desc: Classification of Tweet sentiments together with EDA.
+
+- name: Image Caption Generator
+  i18n: jalpc
+  url: https://github.com/wprazuch/image-caption-generator
+  img: /static/assets/img/landing/image_caption_generator.png
+  desc: Automatically describe the content of the image using CNN & LSTM.
+
+- name: Lung Segmentation from X-rays
+  i18n: jalpc
+  url: https://github.com/wprazuch/lung-segmentation-xray
+  img: /static/assets/img/landing/lung_segmentation_xray.jpg
+  desc: Segmentation of lung from X-ray imaging.
