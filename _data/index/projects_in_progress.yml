@@ -1,0 +1,47 @@
+- name: Netflix Movie Recommendation
+  i18n: jalpc
+  url: https://github.com/wprazuch/netflix-movie-recommendation
+  img: /static/assets/img/landing/netflix_movie_recommendation.jpeg
+  desc: Using data provided by Netflix, the goal is to give recommendations of the movies for the user of specific track of movies and ratings.
+
+- name: Handwriting Recognition
+  i18n: jalpc
+  url: https://github.com/wprazuch/handwriting-recognition
+  img: /static/assets/img/landing/handwriting_recognition.jpg
+  desc: The goal was to automatically translate from written text to electronic text, based on CV techniques and Deep Learning.
+
+- name: Human Activity Recognition
+  i18n: jalpc
+  url: https://github.com/wprazuch/human-activity-recognition
+  img: /static/assets/img/landing/human_activity_recognition.jpg
+  desc: Detect activities from videos or images.
+
+- name: Image Caption Generator
+  i18n: jalpc
+  url: https://github.com/wprazuch/image-caption-generator
+  img: /static/assets/img/landing/image_caption_generator.png
+  desc: Automatically describe the content of the image using CNN & LSTM.
+
+- name: Lung Segmentation from X-rays
+  i18n: jalpc
+  url: https://github.com/wprazuch/lung-segmentation-xray
+  img: /static/assets/img/landing/lung_segmentation_xray.jpg
+  desc: Segmentation of lung from X-ray imaging.
+
+- name: Chatbot
+  i18n: jalpc
+  url: https://github.com/wprazuch/chatbot
+  img: /static/assets/img/landing/chatbot.png
+  desc: A simple chatbot based on Feed-forward network.
+
+- name: RSNA Pneumonia Detection Challenge
+  i18n: jalpc
+  url: https://github.com/wprazuch/rsna-pneumonia
+  img: /static/assets/img/landing/rsna_pneumonia.jpeg
+  desc: The goal is to tell apart pneumonia (viral or bacterial) from healthy patients, based on Chest X-Rays from NIH database. I applied various methods and tools to select the best model for that job.
+
+- name: Dog Breed Classification
+  i18n: jalpc
+  url: https://github.com/wprazuch/dog-expert
+  img: /static/assets/img/landing/dog_expert.jpg
+  desc: This project involved building a classification model that would enable to classify dogs in terms of breeds. Stanford dogs dataset was used in the project.

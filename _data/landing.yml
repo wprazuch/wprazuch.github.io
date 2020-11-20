@@ -24,6 +24,12 @@
   tpl: projects.html
   css: project
 
+- id: projects_in_progress
+  i18n: nav.projects_in_progress
+  name: Projects in Progress
+  tpl: projects_in_progress.html
+  css: project
+
 # - id: blog
 #   i18n: nav.blog
 #   name: Blog

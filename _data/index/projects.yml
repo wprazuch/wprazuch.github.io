@@ -12,24 +12,12 @@
   url: https://github.com/wprazuch/face-mask-detection
   img: /static/assets/img/landing/face_mask_detection.jpg
   desc: In this project, I created a face mask detection system that checks, whether a person wears a face mask or not. Again, you can communicate with the model using REST API written in Flask - an example client is shown in the repo.
-  
+
 - name: Automatic Stack Exchange Tagging
   i18n: jalpc
   url: https://github.com/wprazuch/stack-overflow-tags
   img: /static/assets/img/landing/automatic_stack_exchange_tagging.png
   desc: The intention of the project was to create an automated way of tagging questions raised by users on Stack Exchange.
-
-- name: Netflix Movie Recommendation
-  i18n: jalpc
-  url: https://github.com/wprazuch/netflix-movie-recommendation
-  img: /static/assets/img/landing/netflix_movie_recommendation.jpeg
-  desc: Using data provided by Netflix, the goal is to give recommendations of the movies for the user of specific track of movies and ratings.
-
-- name: Handwriting Recognition
-  i18n: jalpc
-  url: https://github.com/wprazuch/handwriting-recognition
-  img: /static/assets/img/landing/handwriting_recognition.jpg
-  desc: The goal was to automatically translate from written text to electronic text, based on CV techniques and Deep Learning.
 
 - name: Face Recognition
   i18n: jalpc
@@ -43,23 +31,11 @@
   img: /static/assets/img/landing/imdb_movie_reviews.png
   desc: This project showed how to build a model for a simple Sentiment Analysis task for IMDb Movie Reviews data.
 
-- name: Dog Breed Classification
-  i18n: jalpc
-  url: https://github.com/wprazuch/dog-expert
-  img: /static/assets/img/landing/dog_expert.jpg
-  desc: This project involved building a classification model that would enable to classify dogs in terms of breeds. Stanford dogs dataset was used in the project.
-
 - name: Deep Learning from Scratch
   i18n: jalpc
   url: https://github.com/wprazuch/deep-learning-from-scratch
   img: /static/assets/img/landing/deep_learning_from_scratch.png
   desc: In this project, I started from scratch in coding some simple neural networks and applying backpropagation to train them.
-
-- name: RSNA Pneumonia Detection Challenge
-  i18n: jalpc
-  url: https://github.com/wprazuch/rsna-pneumonia
-  img: /static/assets/img/landing/rsna_pneumonia.jpeg
-  desc: The goal is to tell apart pneumonia (viral or bacterial) from healthy patients, based on Chest X-Rays from NIH database. I applied various methods and tools to select the best model for that job.
 
 - name: Stock Price Prediction
   i18n: jalpc
@@ -73,32 +49,8 @@
   img: /static/assets/img/landing/music-genre-classification.jpg
   desc: Predicting music genre using ML algorithms. Some EDA was provied as well.
 
-- name: Chatbot
-  i18n: jalpc
-  url: https://github.com/wprazuch/chatbot
-  img: /static/assets/img/landing/chatbot.png
-  desc: A simple chatbot based on Feed-forward network.
-
 - name: Twitter Sentiment Analysis
   i18n: jalpc
   url: https://github.com/wprazuch/twitter-posts-sentiments
   img: /static/assets/img/landing/twitter.jpg
   desc: Classification of Tweet sentiments together with EDA.
-
-- name: Human Activity Recognition
-  i18n: jalpc
-  url: https://github.com/wprazuch/human-activity-recognition
-  img: /static/assets/img/landing/human_activity_recognition.jpg
-  desc: Detect activities from videos or images.
-
-- name: Image Caption Generator
-  i18n: jalpc
-  url: https://github.com/wprazuch/image-caption-generator
-  img: /static/assets/img/landing/image_caption_generator.png
-  desc: Automatically describe the content of the image using CNN & LSTM.
-
-- name: Lung Segmentation from X-rays
-  i18n: jalpc
-  url: https://github.com/wprazuch/lung-segmentation-xray
-  img: /static/assets/img/landing/lung_segmentation_xray.jpg
-  desc: Segmentation of lung from X-ray imaging.
